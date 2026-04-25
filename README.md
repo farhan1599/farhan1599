@@ -24,9 +24,9 @@
 
 <br/>
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="center">🌐 Connect with me:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/farhan_sid15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/farhan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/_farhan.siddiqui_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -35,9 +35,9 @@
 
 <br/>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
@@ -54,16 +54,16 @@
 
 <br/>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan1599&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhan1599&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=farhan1599&theme=tokyonight" alt="GitHub Streak" />
 </p>
